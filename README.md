@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hello World I'm Royhanul Axmal👋
+
+![Banner]()
+
+I am a student with a strong interest in technology-based project development. I am accustomed to exploring new ideas and transforming them into well-structured projects as part of my learning and personal growth process. I am committed to continuously improving my critical thinking, problem-solving, and technical skills through ongoing project creation and development.
+
+I have a strong aspiration to become a Frontend Web Developer. I am interested in building user-friendly, responsive, and visually appealing website interfaces. I continuously strive to improve my understanding of frontend technologies, design principles, and user experience (UX)! 🚀💻
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/clazepl)
+[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?&style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@clazepl)
+
+## 🌐 My Skills
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,discord,py,php,figma" />
+  </a>
+</p>
+
+## 🌏GitHub Stats
 
 <!--
-**ReyhanClazee/ReyhanClazee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=haerul920&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=false" width="430" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=haerul920&theme=blue_navy&hide_border=false" width="430" />
+</p>-->
