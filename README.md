@@ -9,11 +9,11 @@ I have a strong aspiration to become a Frontend Web Developer. I am interested i
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/clazepl)
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?&style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@clazepl)
 
-## 🌐 My Skills
+## 🧰 Tech Stack
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,discord,py,php,figma" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,discord,py,php,figma,react,github,go,nextjs,notion,tailwind" />
   </a>
 </p>
 
