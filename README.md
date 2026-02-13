@@ -11,7 +11,9 @@ I have a strong aspiration to become a Frontend Web Developer. I am interested i
 
 ## My Ai
 <p align="center"> 
- <img src="img1.png" width="200">
+ <img src="img1.png" width="120">
+ <img src="img2.png" width="120">
+ <img src="https://vectorseek.com/wp-content/uploads/2025/07/Lovable-Ai-Logo-PNG-SVG-Vector-300x300.png" width="120">
 
 ## 🧰 Tech Stack
 
