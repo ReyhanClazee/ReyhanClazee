@@ -9,6 +9,10 @@ I have a strong aspiration to become a Frontend Web Developer. I am interested i
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/clazepl)
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?&style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@clazepl)
 
+## My Ai
+<p align="center"> 
+ <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgB3BjETPkndF-uOakOKyR22zpZGldOt2ocw&s](https://ik.imagekit.io/map7fqyb3/Google-Antigravity-Icon-Full-Color.png">
+
 ## 🧰 Tech Stack
 
 <p align="center">
