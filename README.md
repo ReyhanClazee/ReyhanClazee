@@ -11,7 +11,7 @@ I have a strong aspiration to become a Frontend Web Developer. I am interested i
 
 ## My Ai
 <p align="center"> 
- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgB3BjETPkndF-uOakOKyR22zpZGldOt2ocw&s](https://ik.imagekit.io/map7fqyb3/Google-Antigravity-Icon-Full-Color.png">
+ <img src="img1.png" width="200">
 
 ## 🧰 Tech Stack
 
