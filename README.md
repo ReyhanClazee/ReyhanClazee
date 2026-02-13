@@ -1,4 +1,4 @@
-# Hello, I'm Royhanul Axmal👋
+# Hello, I'm Reyhann👋
 
 ![Banner]()
 
