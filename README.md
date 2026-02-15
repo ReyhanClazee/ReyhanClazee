@@ -11,7 +11,7 @@ I have a strong aspiration to become a Frontend Web Developer. I am interested i
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,discord,py,php,figma,react,github,go,nextjs,notion,tailwind" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,py,php,tailwind,nextjs" />
   </a>
 </p>
 
