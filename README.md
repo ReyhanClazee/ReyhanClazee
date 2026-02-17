@@ -1,8 +1,6 @@
 # Hello, I'm Reyhann👋
 
-I am a student with a strong interest in technology-based project development. I am accustomed to exploring new ideas and transforming them into well-structured projects as part of my learning and personal growth process. I am committed to continuously improving my critical thinking, problem-solving, and technical skills through ongoing project creation and development.
-
-I have a strong aspiration to become a Frontend Web Developer. I am interested in building user-friendly, responsive, and visually appealing website interfaces. I continuously strive to improve my understanding of frontend technologies, design principles, and user experience (UX)! 🚀💻
+Kenalin nama gua teks yg di paling atas, gw manusia, uploud github cuman karna ada ide.
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/clazepl)
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?&style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@clazepl)
